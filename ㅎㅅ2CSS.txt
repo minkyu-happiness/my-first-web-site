@@ -1,0 +1,19 @@
+2025.11.05
+
+CSS
+<style>
+        a
+        {
+            color:black;
+            text-decoration: none;
+        }
+        h1
+        {
+            font-size: 52px;
+            text-align: center;
+        }
+    // html에서 css 문법으로 해석해, 전체를 ㅎㅎ
+</style>
+
+
+style="color:red; text-decoration: underline; //css 문법으로 해석해, 해당줄만 ㅎㅎ
