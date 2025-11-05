@@ -1,0 +1,50 @@
+2025.10.16
+
+urcis HomePage Web 개발하기 ~ 2026.01
+ 기 홈페이지 내용 적용
+ 새로운 기술 찾기, HTML, CSS, JABA Script
+
+1. 커리큘럼 작성하기 - 백준
+2. 주간 미팅 하기 - 목요일
+3. 스케줄 작성하기
+4. 디자인 초안 작성하기
+
+참조
+DIVI Layout
+https://www.elegantthemes.com/layouts/category/technology
+https://eachother.co.kr/en/
+
+2025.10.20
+HTML Tag
+<strong>
+<u>
+<h1>
+https://www.advancedwebranking.com/html
+
+
+<br>, <p>
+
+속성
+<img src="Hyusig.jpg" width="450">
+
+<li>, <ul>, <ol>
+
+<title>
+<meta cahrset="utf-8">
+
+<html>, <head>, <body>
+
+index.html
+
+web server, 
+web hosting
+
+https://github.com/minkyu-happiness
+github ID
+minkyu-happiness
+
+github
+ Pages
+  Setting
+
+ web-site  등록
